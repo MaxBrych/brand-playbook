@@ -30,7 +30,6 @@ export default function UsingOurLogoPage() {
                 height={300}
                 className="rounded-md mb-4"
               />
-              <p>            Guidelines for using the eBay logo across different applications and contexts.</p>
             </div>
             <div className="bg-white rounded-lg p-6 border">
               <Image

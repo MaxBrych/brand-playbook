@@ -15,7 +15,7 @@ export default function Home() {
           </h1>
 
           <p className="text-lg mb-8 max-w-md">
-            eBay Evo is our brand and design system, created so we show up consistently all around the world with the
+            Evo is our brand and design system, created so we show up consistently all around the world with the
             flexibility to strengthen local market relevance.
           </p>
 
